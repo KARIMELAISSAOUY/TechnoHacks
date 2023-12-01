@@ -46,5 +46,6 @@
 > The password generator program prompts users to enter the desired password length and generates a random password accordingly.
 
 ---
+## License
 
 > Dv By KARIM
